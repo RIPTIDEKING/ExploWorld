@@ -1,2 +1,2 @@
 # ExploWorld
-adventure game
+Adventurous Game
